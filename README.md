@@ -16,7 +16,7 @@
 
 ### Currently
 
-[![guilhermealima-unifil netflix-style card](https://coolreadme.xyz/api/netflix-card?title=guilhermealima-unifil&synopsis=A%20code%20project%20by%20%40guilhermealima-unifil.&genre=Open%20Source&match=98&rating=PG&img=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F270802133%3Fv%3D4&user=guilhermealima-unifil&style=poster)](https://github.com/guilhermealima-unifil/guilhermealima-unifil)
+[![guilhermealima-unifil netflix-style card](https://coolreadme.xyz/api/netflix-card?title=Guilherme%20Alima&synopsis=A%20code%20project%20by%20%40guilhermealima-unifil.&genre=Open%20Source&match=98&rating=PG&img=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F270802133%3Fv%3D4&user=guilhermealima-unifil&style=poster)](https://github.com/guilhermealima-unifil/guilhermealima-unifil)
 
 ### Connect
 
